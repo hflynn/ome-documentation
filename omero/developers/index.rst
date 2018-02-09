@@ -7,10 +7,10 @@ code or extend the OMERO server. Instructions on :downloads:`downloading <>`,
 installation and administering OMERO can be found under the
 :doc:`/sysadmins/index` of the main site.
 
-.. figure:: /images/developer-api-figure.png
-   :align: center
-   :width: 80%
-   :alt:
+.. raw:: html
+    
+    <object data="developer-api-figure.html" type="image/html+png"></object>
+
 
 **OMERO** is an open source client/server system written in Java for
 visualizing, managing, and annotating microscope images and metadata.
